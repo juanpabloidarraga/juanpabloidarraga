@@ -7,5 +7,5 @@ Currently, I am lastyear-physics-student from University of Los Andes in Bogota,
 
 Some interest
 --> Astrophysics 
---> Matematics
+--> Maths
 --> Computation
